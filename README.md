@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+[![yejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yejin9819)](https://github.com/yejin9819/github-readme-stats)
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yejin9819">
